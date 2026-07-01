@@ -30,11 +30,13 @@
     "prisma": "^7.8.0",
     "socket.io-client": "^4.8.3",
     "ts-node": "^10.9.2",
+    "tsx": "^4.22.4",
     "typescript": "^6.0.3"
   },
   "allowScripts": {
     "bcrypt@6.0.0": true,
     "prisma@7.8.0": true,
-    "@prisma/engines@7.8.0": true
+    "@prisma/engines@7.8.0": true,
+    "esbuild@0.28.1": true
   }
 }
